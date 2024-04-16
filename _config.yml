@@ -18,10 +18,10 @@ include: ["_pages"]
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Gaurav Choudhary"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Gaurav Choudhary"
+name                     : "Home"
 description              : #
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
