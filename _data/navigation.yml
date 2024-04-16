@@ -2,8 +2,6 @@
 main:
   # - title: "Quick-Start Guide"
   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Publications"
-    url: https://gajgaurav.github.io/Publications/
   - title: "CV"
     url: https://gajgaurav.github.io/CV/
   - title: "Resources"
