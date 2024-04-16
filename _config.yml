@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Gaurav Choudhary"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/headshot.jpeg"
   bio              : #
   location         : "New Delhi, India"
   email            :
