@@ -18,7 +18,7 @@ include: ["_pages"]
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gaurav"
+title                    : "Gaurav Choudhary"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Home"
